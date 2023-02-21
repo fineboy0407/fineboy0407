@@ -1,6 +1,7 @@
 <h1 align="center">fineboy0407</h1>
 <div align="center">
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+[typing](https://user-images.githubusercontent.com/122990468/220291327-178d76b9-d0c3-42ee-a883-d384da441ddc.gif)
+
 </div>  
 
 <p align="center">
