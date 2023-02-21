@@ -1,6 +1,6 @@
 <h1 align="center">fineboy0407</h1>
 <div align="center">
-[typing](https://user-images.githubusercontent.com/122990468/220291327-178d76b9-d0c3-42ee-a883-d384da441ddc.gif)
+<image src="https://user-images.githubusercontent.com/122990468/220291327-178d76b9-d0c3-42ee-a883-d384da441ddc.gif">
 
 </div>  
 
