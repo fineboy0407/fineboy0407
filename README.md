@@ -1,6 +1,6 @@
 <h1 align="center">fineboy0407</h1>
 <div align="center">
-<image src="https://user-images.githubusercontent.com/122990468/220291327-178d76b9-d0c3-42ee-a883-d384da441ddc.gif">
+![unnamed](https://user-images.githubusercontent.com/122990468/221325464-2fe145d3-82a0-4b78-8952-fa99e5d7f8ad.jpg)
 
 </div>  
 
